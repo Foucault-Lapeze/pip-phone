@@ -18,4 +18,3 @@ def phone_number_to_words(phone_number):
 
 # phone_number = input('Veuillez saisir un numéro de téléphone : ')
 # print(phone_number_to_words(phone_number))
-
